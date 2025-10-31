@@ -84,6 +84,29 @@ Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged 
 
   </details>
 
+### 4. `C 17`
+* <details>
+  <summary><b>abridged version</b></summary>
+
+  ```c
+  ///utilities
+  #include <stdio.h>
+  #include <stdlib.h>
+  #include <assert.h>
+  ///string, char, bool
+  #include <string.h>
+  #include <ctype.h>
+  #include <stdbool.h>
+  ///math
+  #include <math.h>
+  #include <float.h>
+  #include <limits.h>
+  #include <stdint.h>
+  ```
+
+  </details>
+  
+
 </br>
 
 GCC builtins vs MSVC intrinsics(`#include <intrin.h>`)
