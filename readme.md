@@ -28,7 +28,9 @@ Navigate to &rarr; "Help" &rarr; "Open Walkthrough..." &rarr; Search "c++" &rarr
 
   </details>
 
-### 3. `<bits/stdc++.h>`
+# Libraries
+
+### 1. `<bits/stdc++.h>`
 
 Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged version** &rarr; `#include <bits/stdc++.h>` in `.cpp` file.
 * <details>
@@ -66,7 +68,7 @@ Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged 
 
   </details>
 
-### 4. `C 17`
+### 2. `C 17`
 * <details>
   <summary><b>summary</b></summary>
 
