@@ -1,26 +1,8 @@
 # About
 
-Đây là các bài tập lập trình thi đấu (CP) đã hoàn thành trong kỳ HUST20251, được lưu trên GitHub để thuận tiện cho việc lập trình từ xa.
+Competitive programming (CP) practice and self-training at HUST, 2025-2026.
 
-This repository contains the competitive programming (CP) exercises in HUST20251 semester, saved for easy remote access.
-
-# How to use this repo
-
-Open vscode &rarr; navigate to "Terminal" &rarr; "New Terminal".
-
-```bash
-git clone https://github.com/arminddoox/CP-Excercises-20251.git
-git pull origin main
-
----(optional)---
-git init
-git remote add origin https://github.com/arminddoox/CP-Excercises-20251.git
-git pull origin main --force
-git fetch origin
-git reset --hard origin/main
-``` 
-
-# How to setup C++ originally with vscode
+# Setup C++ with vscode
 
 > Copy these instructions to GPT for details.
 
@@ -29,12 +11,12 @@ git reset --hard origin/main
 ### 1. Open vscode instruction "Get started with C++...":
 Navigate to &rarr; "Help" &rarr; "Open Walkthrough..." &rarr; Search "c++" &rarr; Enter.
 
-### 2. Please follow instructions
+### 2. Follow instructions
   <details>
-  <summary>summary & note</summary>
+  <summary><b>summary</b></summary>
     
   * run the suggested bash code &rarr; install vs-build-tools.
-  * open "developer command prompt" (or "dev..." in window-search).
+  * open "developer command prompt" (or search "dev..." in window-search).
   * 
   * To get started, create a `.cpp` file then `F5` & Enter for auto-build &rarr; have `.vscode` folder.
   * `F5`(with debug) / `Ctrl+F5`(without debug) to run file.
@@ -50,7 +32,7 @@ Navigate to &rarr; "Help" &rarr; "Open Walkthrough..." &rarr; Search "c++" &rarr
 
 Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged version** &rarr; `#include <bits/stdc++.h>` in `.cpp` file.
 * <details>
-  <summary><b>details</b></summary>
+  <summary><b>summary</b></summary>
 
   ```cpp
   // basic
@@ -86,7 +68,7 @@ Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged 
 
 ### 4. `C 17`
 * <details>
-  <summary><b>details</b></summary>
+  <summary><b>summary</b></summary>
 
   ```c
   ///utilities
