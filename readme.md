@@ -50,7 +50,7 @@ Navigate to &rarr; "Help" &rarr; "Open Walkthrough..." &rarr; Search "c++" &rarr
 
 Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged version** &rarr; `#include <bits/stdc++.h>` in `.cpp` file.
 * <details>
-  <summary><b>abridged version</b></summary>
+  <summary><b>details</b></summary>
 
   ```cpp
   // basic
@@ -86,7 +86,7 @@ Create `bits` folder &rarr; `stdc++.h` file inside &rarr; copy-paste **abridged 
 
 ### 4. `C 17`
 * <details>
-  <summary><b>abridged version</b></summary>
+  <summary><b>details</b></summary>
 
   ```c
   ///utilities
